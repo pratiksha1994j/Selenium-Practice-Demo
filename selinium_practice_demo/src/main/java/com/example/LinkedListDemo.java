@@ -13,8 +13,8 @@ public class LinkedListDemo {
 
                 //ll.addFirst(50); //add given element at first index 
                 //ll.addLast(00); // add given elememnt at last
-               System.out.println(ll.getFirst()); //not returned value
-                ll.getLast();   //
-
+               System.out.println(ll.getFirst()); //print first element
+               System.out.println(ll.getLast());   // print last element
+               
                 //  System.out.println("the elements in list =" + ll);
     }}
